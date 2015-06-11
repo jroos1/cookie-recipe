@@ -1,13 +1,23 @@
+body {
+	border: 3px solid black;
+	padding: 15px 0px 20px 25px;
+	background-color: #ffffee;
+	margin: 0px 0px 80px 0px;
+}
+
 img {
-	border: 2px solid black;
-	border-radius: 10px;
+	border: 3px solid black;
 }
 
-#author {
+h3 {
+	font-style: italic;
 	color: gray;
-	font-family: cursive;
 }
 
-h2 {
-	color: red;
+a:link {
+	color: #9C0808;
+}
+
+a:visited {
+	color: #9C0808;
 }
