@@ -11,13 +11,13 @@ img {
 
 h3 {
 	font-style: italic;
-	color: gray;
+	color: #887;
 }
 
 a:link {
-	color: #9C0808;
+	color: #900;
 }
 
 a:visited {
-	color: #9C0808;
+	color: #900;
 }
